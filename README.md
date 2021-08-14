@@ -12,8 +12,8 @@ a little bit of javaScript.
  broadcast the festival with details. The home page tells us about the venue, date and time of the event. also, this page includes names
  of Speakers we expect during the festival. the second page which I named "About Page" gives details of the program and testimonies. 
 
-![Desktop-Images](./images/homePageCapstoneProject.png)
-![Desktop Phone size image](.images/CapstoneProject1.png)
+![Desktop-Images](./images/pageFestival.png)
+![Desktop Phone size image](./images/CapstoneProject1.png)
 
 # The Project presentation video
 [Presentation video link](https://www.loom.com/share/f50d19dcc2154e069459e9b9c36941e2)
