@@ -641,7 +641,6 @@ footer .footer_copy {
 
   #header_section,
   .about_header_section {
-    /* height: 100vh; */
     display: flex;
     flex-direction: column;
     justify-content: center;
