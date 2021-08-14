@@ -1,4 +1,4 @@
-const speakers =[
+const speakers = [
   {
     images: {
       imagesUrl: './images/speaker4.png',
@@ -6,7 +6,7 @@ const speakers =[
     },
     name: 'Professor of Entrepreneurial Legal Studies at Havard',
     shortDescription: '',
-    profile: `Chandler studies commons-based perr production, and published his seminal book The Wealth of Network in 2019.`,
+    profile: 'Chandler studies commons-based perr production, and published his seminal book The Wealth of Network in 2019.',
   },
 
   {
@@ -38,7 +38,7 @@ const speakers =[
     },
     name: 'Augustin Kossi',
     shortDescription: 'Kossi is a DEV Programmer Eng and big architech in Kumasi',
-    profile: `Kossi has a PhD in ICTM and currently a Senior Lecturer in the Department of Architecture, Kwame Nkrumah University Of Science and Technology. is an active practicing consulting architect and the C.E.O. of the PROJEKT DAVID FOUNDATION..`,
+    profile: 'Kossi has a PhD in ICTM and currently a Senior Lecturer in the Department of Architecture, Kwame Nkrumah University Of Science and Technology. is an active practicing consulting architect and the C.E.O. of the PROJEKT DAVID FOUNDATION.',
   },
 
   {
@@ -48,7 +48,7 @@ const speakers =[
     },
     name: 'Jocelyne Béroard',
     shortDescription: 'Jocelyne is a Martinican singer and songwriter',
-    profile: `In 2014, she sang "On n'oublie pas" (written by Serge Bilé) with several artists and personalities including Alpha Blondy, Harry Roselmack and Admiral T. This song is a tribute to the 152 victims from Martinique of the crash of 16 August 2005,`,
+    profile: 'In 2014, she sang On noublie pas (written by Serge Bilé) with several artists and personalities including Alpha Blondy, Harry Roselmack and Admiral T. This song is a tribute to the 152 victims from Martinique of the crash of 16 August 2005,',
   },
 
   {
@@ -58,7 +58,7 @@ const speakers =[
     },
     name: 'Scott Michael Disick',
     shortDescription: 'Gospel Artiste',
-    profile: `Scott Michael Disick is an American media personality and socialite. He is most famous for starring as a main cast member on Keeping Up with the Kardashians and its spinoffs.[5][6] Disick's popularity on Keeping Up with the Kardashians led to the development of a house flipping show, Flip It Like Disick, that aired on E! Network`,
+    profile: 'Scott Michael Disick is an American media personality and socialite. He is most famous for starring as a main cast member on Keeping Up with the Kardashians and its spinoffs.[5][6] Disicks popularity on Keeping Up with the Kardashians led to the development of a house flipping show, Flip It Like Disick, that aired on E! Network',
   },
 ];
 

@@ -1,4 +1,3 @@
-// Show 'Go back to top' icon on window scroll
 const goUp = document.querySelector('.go-up');
 window.onscroll = () => {
   if (document.body.scrollTop >= 100 || document.documentElement.scrollTop >= 100) {
@@ -7,7 +6,6 @@ window.onscroll = () => {
     goUp.style.display = 'none';
   }
 };
-// Mobile Menu
 
 const weSingMenu = document.getElementById('festival_menu');
 const openWesingMenu = document.getElementById('bars');
