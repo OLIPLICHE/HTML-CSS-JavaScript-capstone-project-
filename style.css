@@ -184,7 +184,7 @@ footer .footer_copy img {
 }
 
 #main-nav .nav-with-image img {
-  width: 80px;
+  width: 50px;
   padding-top: 10px;
 }
 
@@ -641,7 +641,7 @@ footer .footer_copy {
 
   #header_section,
   .about_header_section {
-    height: 100vh;
+    /* height: 100vh; */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -679,9 +679,9 @@ footer .footer_copy {
   .festival_programs {
     grid-template-columns: repeat(2, 1fr);
     width: 80%;
-    margin: 0 auto;
     margin-top: 40px;
     column-gap: 10px;
+    display: flex;
   }
 
   .festival_programs .program {
@@ -728,7 +728,12 @@ footer .footer_copy {
 
   footer .footer_copy img {
     width: 100px;
-    height: 100px;
+    height: 70px;
+  }
+
+  .end-foot {
+    padding-left: 40px;
+    font-size: 17px;
   }
 
   #festival_partners .partners img {
@@ -764,8 +769,13 @@ footer .footer_copy {
   }
 
   footer {
-    justify-content: space-evenly;
     height: 90px;
+    background-color: #f9f9f9;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    gap: 30px;
+    padding: 30px 0;
   }
 
   #about-footer {

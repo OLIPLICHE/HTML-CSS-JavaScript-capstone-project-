@@ -27,7 +27,7 @@ const speakers = [
     },
     name: 'Claudy Siar',
     shortDescription: 'Journalist, Presenter',
-    profile: ` In 2014-2015,in the historical television series Brothers in Arms by Rachid Bouchareb and Pascal Blanchard,he presents the biography of Florence Conrad.
+    profile: ` In 2014-2015,in the historical television series Brothers the Arms by Rachid Bouchareb and Pascal Blanchard,he presents the biography of Florence Conrad.
     In 2016-2017, he hosted The Voice Afrique francophone on Voxafrica.`,
   },
 

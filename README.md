@@ -15,9 +15,8 @@ a little bit of javaScript.
 ![Desktop-Images](./images/homePageCapstoneProject.png)
 ![Desktop Phone size image](.images/CapstoneProject1.png)
 
-# The Project presentation live demo link
-![live-demo link](https://www.loom.com/share/f50d19dcc2154e069459e9b9c36941e2)
-
+# The Project presentation video
+![Presentation video link](https://www.loom.com/share/f50d19dcc2154e069459e9b9c36941e2)
 
 ## Built With
 
