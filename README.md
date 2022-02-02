@@ -2,15 +2,12 @@
 
 # HTML-CSS-JavaScript-capstone-project
 
->This Project is called Capstone which simply means Final Project in which I summarize my knowledge in HTML, CSS and 
+>This Project is called Capstone which simply means Final Project in which I summarize my knowledge in HTML, CSS and
 a little bit of javaScript.
 
 ## Project Name
 ## International Festival Theatre in Kumasi GHANA
- Kumasi is the second capital in Ghana country. Festivals theatre have been going on un kumasi for years now. This Project which
- will come off in December will be held at Kwame Nkrumah University of Science and technology. In this Project, I announce or 
- broadcast the festival with details. The home page tells us about the venue, date and time of the event. also, this page includes names
- of Speakers we expect during the festival. the second page which I named "About Page" gives details of the program and testimonies. 
+This project was our capstone project for module 1-HTML/CSS. The project was to build about any conference/summit. I created a Software Development Conference website for people who want to know more about a festival in Kumasi.
 
 ![Desktop-Images](./images/pageFestival.png)
 ![Desktop Phone size image](./images/CapstoneProject1.png)
